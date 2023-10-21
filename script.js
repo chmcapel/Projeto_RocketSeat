@@ -11,7 +11,7 @@ function toggleMode() {
   const img = document.querySelector("#profile img")
   // se tiver light mode, adicionar a img light
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/chmcapel_profile_light.png")
+    img.setAttribute("src", "./assets/chmcapel_profile_light2.png")
     img.setAttribute("alt", "Foto Carlos Henrique M. Capel (Light Mode)")
   } else {
     // caso não esteja light mode, manter a img normal
