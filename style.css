@@ -178,7 +178,12 @@ footer {
   padding: 24px 0;
   text-align: center;
   font-size: 14px;
+}
+
+footer a:hover {
+  color: blueviolet;
   font-weight: 500;
+  text-decoration: none;
 }
 
 /* media queries */
